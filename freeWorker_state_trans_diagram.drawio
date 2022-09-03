@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-09-03T13:52:44.315Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.2.7" etag="i4AGrj_qhqYNK3EdRTZ_" type="github"><diagram id="Nu6X5VZekTszwkwpbxgz">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-03T14:22:34.329Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="3GyZhyMmlM0YYBwwyzUu" version="20.2.7" type="github">
+  <diagram id="Nu6X5VZekTszwkwpbxgz" name="第 1 页">
+    <mxGraphModel dx="3085" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-4F24NQPrYdANt6kzRt3-3" value="decommissionWorker" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-4F24NQPrYdANt6kzRt3-1" target="-4F24NQPrYdANt6kzRt3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-4F24NQPrYdANt6kzRt3-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="1" source="-4F24NQPrYdANt6kzRt3-1" target="-4F24NQPrYdANt6kzRt3-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-4F24NQPrYdANt6kzRt3-1" value="Active Worker" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-4F24NQPrYdANt6kzRt3-5" value="freeWorker" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-4F24NQPrYdANt6kzRt3-2" target="-4F24NQPrYdANt6kzRt3-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-4F24NQPrYdANt6kzRt3-2" value="Decommissioned Worker" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-4F24NQPrYdANt6kzRt3-4" value="Freed Worker" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-4F24NQPrYdANt6kzRt3-6" value="Lost Worker" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-413" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
